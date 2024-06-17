@@ -1,0 +1,7 @@
+C:\Users\siddarthan\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Infinite\Training\Csharp\Day3_DontNet\Day3_DontNet\obj\Debug\Day3_DontNet.csproj.AssemblyReference.cache
+C:\Users\siddarthan\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Infinite\Training\Csharp\Day3_DontNet\Day3_DontNet\obj\Debug\Day3_DontNet.csproj.CoreCompileInputs.cache
+C:\Users\siddarthan\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Infinite\Training\Csharp\Day3_DontNet\Day3_DontNet\bin\Debug\Day3_DontNet.exe.config
+C:\Users\siddarthan\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Infinite\Training\Csharp\Day3_DontNet\Day3_DontNet\bin\Debug\Day3_DontNet.exe
+C:\Users\siddarthan\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Infinite\Training\Csharp\Day3_DontNet\Day3_DontNet\bin\Debug\Day3_DontNet.pdb
+C:\Users\siddarthan\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Infinite\Training\Csharp\Day3_DontNet\Day3_DontNet\obj\Debug\Day3_DontNet.exe
+C:\Users\siddarthan\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Infinite\Training\Csharp\Day3_DontNet\Day3_DontNet\obj\Debug\Day3_DontNet.pdb
