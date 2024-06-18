@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EC9A9D30-4C5E-4FFC-B386-52CB706711AA}</ProjectGuid>
+    <ProjectGuid>{B43B6225-18F3-4332-81A0-AD579DD959C3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Day1_DotNet</RootNamespace>
-    <AssemblyName>Day1_DotNet</AssemblyName>
+    <RootNamespace>Practice</RootNamespace>
+    <AssemblyName>Practice</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -48,9 +48,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

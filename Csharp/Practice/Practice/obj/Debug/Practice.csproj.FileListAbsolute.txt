@@ -1,0 +1,7 @@
+C:\Users\siddarthan\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Infinite\Training\Csharp\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\siddarthan\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Infinite\Training\Csharp\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\siddarthan\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Infinite\Training\Csharp\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\siddarthan\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Infinite\Training\Csharp\Practice\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+C:\Users\siddarthan\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Infinite\Training\Csharp\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\siddarthan\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Infinite\Training\Csharp\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\siddarthan\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Infinite\Training\Csharp\Practice\Practice\obj\Debug\Practice.pdb
