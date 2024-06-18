@@ -1,0 +1,7 @@
+C:\Users\siddarthan\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Infinite\Training\Csharp\Day4_DotNet\Day4_DotNet\bin\Debug\Day4_DotNet.exe.config
+C:\Users\siddarthan\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Infinite\Training\Csharp\Day4_DotNet\Day4_DotNet\bin\Debug\Day4_DotNet.exe
+C:\Users\siddarthan\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Infinite\Training\Csharp\Day4_DotNet\Day4_DotNet\bin\Debug\Day4_DotNet.pdb
+C:\Users\siddarthan\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Infinite\Training\Csharp\Day4_DotNet\Day4_DotNet\obj\Debug\Day4_DotNet.csproj.AssemblyReference.cache
+C:\Users\siddarthan\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Infinite\Training\Csharp\Day4_DotNet\Day4_DotNet\obj\Debug\Day4_DotNet.csproj.CoreCompileInputs.cache
+C:\Users\siddarthan\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Infinite\Training\Csharp\Day4_DotNet\Day4_DotNet\obj\Debug\Day4_DotNet.exe
+C:\Users\siddarthan\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Infinite\Training\Csharp\Day4_DotNet\Day4_DotNet\obj\Debug\Day4_DotNet.pdb
