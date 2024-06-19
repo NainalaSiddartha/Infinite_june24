@@ -1,0 +1,7 @@
+C:\Users\siddarthan\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Infinite\Training\Csharp\Assignments\AA1\AA1\bin\Debug\AA1.exe.config
+C:\Users\siddarthan\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Infinite\Training\Csharp\Assignments\AA1\AA1\bin\Debug\AA1.exe
+C:\Users\siddarthan\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Infinite\Training\Csharp\Assignments\AA1\AA1\bin\Debug\AA1.pdb
+C:\Users\siddarthan\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Infinite\Training\Csharp\Assignments\AA1\AA1\obj\Debug\AA1.csproj.AssemblyReference.cache
+C:\Users\siddarthan\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Infinite\Training\Csharp\Assignments\AA1\AA1\obj\Debug\AA1.csproj.CoreCompileInputs.cache
+C:\Users\siddarthan\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Infinite\Training\Csharp\Assignments\AA1\AA1\obj\Debug\AA1.exe
+C:\Users\siddarthan\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Infinite\Training\Csharp\Assignments\AA1\AA1\obj\Debug\AA1.pdb
