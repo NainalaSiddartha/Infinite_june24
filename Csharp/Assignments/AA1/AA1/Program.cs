@@ -15,6 +15,7 @@ namespace AA1
             p.Q2();
             p.Q3();
             p.Q4();
+            Console.Read();
         }
 
         void Q2()
